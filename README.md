@@ -61,5 +61,7 @@ Flesch Readability Index = -34.246220
 //More Sample Output
 
 Please type (or paste) some text: It doesn't appear to have any effect in terms of functionality, but is recommended as a form of compile-time correctness checking. For example, consider the scenario where you write a method called print() which replaces a superclass method called Print(). If you have used @override then the compiler will give an error, but if you don't use it then you'll simply have created a different method which has nothing to do with the original, since the method names are not the same. So the use of @override could potentially save you hours of debugging work.
-Flesch Readability Index = 52.931250
+Flesch Readability 
+
+Index = 52.931250
 
